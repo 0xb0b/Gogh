@@ -177,6 +177,7 @@ declare -a THEMES=(
   'spring.sh'
   'square.sh'
   'srcery.sh'
+  'stillcolored.sh'
   'summer-pop.sh'
   'sundried.sh'
   'symphonic.sh'
